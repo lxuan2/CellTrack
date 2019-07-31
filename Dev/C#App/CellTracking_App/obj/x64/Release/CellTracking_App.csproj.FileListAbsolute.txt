@@ -1,0 +1,11 @@
+C:\Users\Xuan\Desktop\CellTracking_App\CellTracking_App\bin\x64\Release\CellTracking_App.exe.config
+C:\Users\Xuan\Desktop\CellTracking_App\CellTracking_App\bin\x64\Release\CellTracking_App.exe
+C:\Users\Xuan\Desktop\CellTracking_App\CellTracking_App\bin\x64\Release\CellTracking_App.pdb
+C:\Users\Xuan\Desktop\CellTracking_App\CellTracking_App\bin\x64\Release\CellTracking_Lib.dll
+C:\Users\Xuan\Desktop\CellTracking_App\CellTracking_App\bin\x64\Release\MWArray.dll
+C:\Users\Xuan\Desktop\CellTracking_App\CellTracking_App\bin\x64\Release\MWArray.xml
+C:\Users\Xuan\Desktop\CellTracking_App\CellTracking_App\obj\x64\Release\CellTracking_App.csprojAssemblyReference.cache
+C:\Users\Xuan\Desktop\CellTracking_App\CellTracking_App\obj\x64\Release\CellTracking_App.csproj.CoreCompileInputs.cache
+C:\Users\Xuan\Desktop\CellTracking_App\CellTracking_App\obj\x64\Release\CellTracking_App.csproj.CopyComplete
+C:\Users\Xuan\Desktop\CellTracking_App\CellTracking_App\obj\x64\Release\CellTracking_App.exe
+C:\Users\Xuan\Desktop\CellTracking_App\CellTracking_App\obj\x64\Release\CellTracking_App.pdb
