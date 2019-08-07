@@ -1,0 +1,11 @@
+C:\Users\Xuan\Desktop\CSharpApp\CSharpApp\bin\Debug\CSharpApp.exe.config
+C:\Users\Xuan\Desktop\CSharpApp\CSharpApp\bin\Debug\CSharpApp.exe
+C:\Users\Xuan\Desktop\CSharpApp\CSharpApp\bin\Debug\CSharpApp.pdb
+C:\Users\Xuan\Desktop\CSharpApp\CSharpApp\obj\Debug\CSharpApp.csprojAssemblyReference.cache
+C:\Users\Xuan\Desktop\CSharpApp\CSharpApp\obj\Debug\Interop.MLApp.dll
+C:\Users\Xuan\Desktop\CSharpApp\CSharpApp\obj\Debug\CSharpApp.csproj.ResolveComReference.cache
+C:\Users\Xuan\Desktop\CSharpApp\CSharpApp\obj\Debug\CSharpApp.Properties.Resources.resources
+C:\Users\Xuan\Desktop\CSharpApp\CSharpApp\obj\Debug\CSharpApp.csproj.GenerateResource.cache
+C:\Users\Xuan\Desktop\CSharpApp\CSharpApp\obj\Debug\CSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\Xuan\Desktop\CSharpApp\CSharpApp\obj\Debug\CSharpApp.exe
+C:\Users\Xuan\Desktop\CSharpApp\CSharpApp\obj\Debug\CSharpApp.pdb
